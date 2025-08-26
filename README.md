@@ -9,7 +9,7 @@ python developer
 <br>
 web developer
 <br>
-projectss
+projects
 <br>
 A
 <br>
